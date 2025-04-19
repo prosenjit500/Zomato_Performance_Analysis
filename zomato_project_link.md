@@ -9,6 +9,6 @@ This link contains the following project assets:
 
 📄 Zomato Performance Analysis Dashboard.pdf
 
-📝 SQL Query Documentation of Zomato.pdf
+📝 Zomato SQL Query Documentation.pdf
 
 🗃️ Dataset (4 CSV files)
