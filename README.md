@@ -85,11 +85,17 @@ dashboard visual. **.
 ###   📈 Business Growth Recommendations for Zomato
 Based on the analysis, the following strategic recommendations can drive business growth:
 •	Focus on High Performing Cities: Increase marketing and partnership efforts in cities like Amritsar and Cora Mongola with high sales and restaurant density.
+
 •	Expand in Underserved Locations: Scale operations in areas with low restaurant availability like Science City to improve coverage.
+
 •	Promote Best-Selling Items: Highlight and promote top-selling dishes such as Jeera Rice and popular cuisines like North Indian Chinese to boost engagement.
+
 •	Leverage Young Demographic: Tailor marketing strategies and offers for the 21-25 age group, the platform’s largest user base.
+
 •	Enhance Loyalty Programs: Implement user retention strategies to reduce YoY user loss and improve engagement from <21 users.
+
 •	Boost Veg and Non-Veg Sales Growth: Introduce combo deals or festival offers to maintain momentum in both food categories.
+
 •	Capitalize on Monthly Trends: Use March sales peaks for campaign planning and address the sales dip in August through targeted discounts or events.
 
 
