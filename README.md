@@ -7,16 +7,23 @@ analysis, logic development, and validation of insights, which were then visuali
 Power BI. The queries documented here represent the analytical foundation behind each 
 dashboard visual. **.
 
-## 📊 Dashboard Overview
+## 📁 Dataset Information
+- Source: Sample dataset designed to reflect Zomato's food delivery business operations for analytical purposes
+- Tables: `Users`, `Orders`, `Restaurants`, `Food`
+- Total Rows: Over **1,000,000** records
+- [Download Full Dataset](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 
-The Power BI dashboard includes the following key analysis sections:
+
+## 📊 Dashboard Overview
+  ![Project Summary](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis%20Dashboard.JPG)
+
+
+###The Power BI dashboard includes the following key analysis sections:
 - **Business Overview**
 - **Sales Analysis**
 - **Restaurant & Food Insights**
 - **Customer Analysis**
-![Project Summary](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis%20Dashboard.JPG)
-
-
+  
 ### 🔍 Highlighted Insights
 - **Total Sales**: ₹1.9 Billion
 - **Total Orders**: 888K
