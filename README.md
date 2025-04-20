@@ -14,13 +14,8 @@ The Power BI dashboard includes the following key analysis sections:
 - **Sales Analysis**
 - **Restaurant & Food Insights**
 - **Customer Analysis**
+![Project Summary](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis%20Dashboard.JPG)
 
-Key metrics include:
-- Food Items
-- Cuisine Types
-- Restaurants
-- Users
-- Ratings
 
 ### 🔍 Highlighted Insights
 - **Total Sales**: ₹1.9 Billion
