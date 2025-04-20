@@ -84,6 +84,7 @@ dashboard visual. **.
 
 ###   📈 Business Growth Recommendations for Zomato
 Based on the analysis, the following strategic recommendations can drive business growth:
+
 •	Focus on High Performing Cities: Increase marketing and partnership efforts in cities like Amritsar and Cora Mongola with high sales and restaurant density.
 
 •	Expand in Underserved Locations: Scale operations in areas with low restaurant availability like Science City to improve coverage.
