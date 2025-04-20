@@ -18,7 +18,7 @@ dashboard visual. **.
   ![Project Summary](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis%20Dashboard.JPG)
 
 
-###The Power BI dashboard includes the following key analysis sections:
+###   The Power BI dashboard includes the following key analysis sections:
 - **Business Overview**
 - **Sales Analysis**
 - **Restaurant & Food Insights**
