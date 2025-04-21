@@ -15,7 +15,9 @@ dashboard visual. **.
 
 
 ## 📊 Dashboard Overview
-  [Project Summary](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis.gif).
+  ![Dashboard GIF](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis.gif)
+
+  
 
 
 ###   The Power BI dashboard includes the following key analysis sections:
