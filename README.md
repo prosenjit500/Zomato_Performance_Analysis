@@ -22,7 +22,7 @@ dashboard visual. **.
 
 ###   The Power BI dashboard includes the following key analysis sections:
 - **Business Overview**
-- **Sales Analysis**
+- **Sales Performance**
 - **Restaurant & Food Insights**
 - **Customer Analysis**
   
