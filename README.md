@@ -27,24 +27,23 @@ dashboard visual. **.
 - **Customer Analysis**
   
 ### 🔍 Highlighted Insights
-- **Total Sales**: ₹1.9 Billion
-- **Total Orders**: 888K
-- **Restaurant Network**: 11,814
-- **Customer Base**: 86,162
-- **Average Rating**: 3.9
-- **Data Span**: 2 Years
-- **Highest Monthly Sales**: ₹180M in March
-- **Lowest Monthly Sales**: ₹118M in August
-- **Veg Sales**: ₹1.2 Billion
-- **Non-Veg Sales**: ₹628.7M
-- **Highest Restaurant Count**: Cora Mongola City - 884
-- **Lowest Restaurant Count**: Science City - 5
-- **Top-Selling City**: Amritsar
+- Total Sales: ₹1.9 Billion
+- Total Orders: 888K
+- Restaurant Network: 11,814
+- Customer Base: 86,162
+- Average Rating: 3.9
+- Highest Monthly Sales: ₹180M in March
+- Lowest Monthly Sales: ₹118M in August
+- Veg Sales: ₹1.2 Billion
+- Non-Veg Sales: ₹628.7M
+- Highest Restaurant Count: Cora Mongola City 884
+- Lowest Restaurant Count: Science City 5
+- Top-Selling City: Amritsar
 
 ### 📈 Year-over-Year (YoY) Growth - 2019
-- **Sales Growth**: February - 84%, April - 84%, Lowest in November - 27%
-- **Veg Sales Growth**: 38%
-- **Non-Veg Sales Growth**: 44%
+- Sales Growth: February 84%, April 84%, Lowest in November -27%
+- Veg Sales Growth: 38%
+- Non-Veg Sales Growth: 44%
 
 ### 🍲 Category Breakdown
 #### Veg Foods
@@ -62,22 +61,22 @@ dashboard visual. **.
 - Ratings: 131,682
 
 ### 🥇 Highlights
-- **Most Ordered Food Item**: Jeera Rice (3,031 orders)
-- **Top Sales Restaurant**: KFC – ₹8.7 Million
-- **Top Cuisine (Quantity Sales)**: North Indian Chinese – 908,174
+- Most Ordered Food Item: Jeera Rice (3,031 orders)
+- Top Sales Restaurant: KFC ₹8.7 Million
+- Top Cuisine (Quantity Sales): North Indian Chinese 908,174
 
 ### 👥 User Demographics
-- **Gender Distribution**: 56% Male, 44% Female
-- **Age Group 21-25**: Highest user base
+- Age Group 21-25: Highest user base
   - Male: 33,446
   - Female: 28,681
-- **Age Group <21**: Lowest user base
+- Age Group <21: Lowest user base
   - Male: 1,785
   - Female: 794
-- **Occupation**: Most users are students
-- **Marital Status**: Majority are single
-- **YoY User Gain in 2019**: 45K
-- **YoY User Loss in 2019**: 35K
+- Occupation: Most users are students
+- Marital Status: Majority are single
+- Gender Distribution: 56% Male, 44% Female
+- YoY User Gain in 2019: 45K
+- YoY User Loss in 2019: 35K
 
 ### ⏱️ Timeframe Slicer
 - Weekday
@@ -128,5 +127,6 @@ For any queries or suggestions, feel free to connect on [LinkedIn](https://www.l
 ---
 
 *Note: This project is for educational and portfolio purposes only and is not affiliated with Zomato.*
+
 
 
