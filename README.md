@@ -1,5 +1,6 @@
 # Zomato Performance Analysis | Data Analytics Project
 
+  
   ![Dashboard GIF](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis.gif)
 
 ## 📊 Project Overview  
