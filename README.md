@@ -15,9 +15,9 @@
   
 📄 Supporting Files
 - **Zomato SQL Query Documentation** – Detailed SQL scripts used throughout the analysis
--   [👁️ View](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20SQL%20Query%20Documentation.pdf) | [📥 Download](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
+  -   [👁️ View](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20SQL%20Query%20Documentation.pdf) | [📥 Download](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 - **Power BI Dashboard (.pbix & .pdf file)** – Interactive and dynamic visual dashboard
--   [👁️ View Dashboard](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis%20Dashboard.pdf) | [📥 Download Dashboard](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
+  -   [👁️ View Dashboard](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis%20Dashboard.pdf) | [📥 Download Dashboard](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 
 ###   The Power BI dashboard includes the following key analysis sections:
 - **Business Overview**
