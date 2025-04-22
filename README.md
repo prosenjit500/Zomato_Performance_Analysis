@@ -1,23 +1,14 @@
 # Zomato Performance Analysis | Data Analytics Project
-
-**This project demonstrates the end-to-end data analytics workflow, encompassing data extraction, SQL-based logic development, advanced modeling, and visual storytelling with Power BI. It delivers actionable insights into Zomato’s customer behavior, sales performance, and operational trends. Key outcomes include a 20% increase in repeat customer orders, 13% of 2019 users as repeat customers from 2018, and 15% of restaurants contributing to 70% of total sales. All supporting documentation, including SQL queries and dashboard files, is provided for full transparency and reproducibility.**
-
-## 📁 Dataset Information
-- Source: Sample dataset designed to reflect Zomato's food delivery business operations for analytical purposes
-- Tables: `Users`, `Orders`, `Restaurants`, `Food`
-- Total Rows: Over **1,000,000** records
-- [Download Full Dataset](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
-
-
 ## 📊 Project Overview
   ![Dashboard GIF](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis.gif)
+**This project demonstrates the end-to-end data analytics workflow, encompassing data extraction, SQL-based logic development, advanced modeling, and visual storytelling with Power BI. It delivers actionable insights into Zomato’s customer behavior, sales performance, and operational trends. Key outcomes include a 20% increase in repeat customer orders, 13% of 2019 users as repeat customers from 2018, and 15% of restaurants contributing to 70% of total sales. All supporting documentation, including SQL queries and dashboard files, is provided for full transparency and reproducibility.**
 
-  
-📄 Supporting Files
+
+## 📄 Supporting Files
 - **Zomato SQL Query Documentation** – Detailed SQL scripts used throughout the analysis
   -   [👁️ View](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20SQL%20Query%20Documentation.pdf) | [📥 Download](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 - **Power BI Dashboard (.pbix & .pdf file)** – Interactive and dynamic visual dashboard
-  -   [👁️ View Dashboard](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis%20Dashboard.pdf) | [📥 Download Dashboard](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
+  -   [👁️ View](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis%20Dashboard.pdf) | [📥 Download](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 
 ###   The Power BI dashboard includes the following key analysis sections:
 - **Business Overview**
@@ -84,7 +75,6 @@
 
 
 ###	📈 Business Growth Recommendations for Zomato
-
 **Based on the analysis, these strategies can help Zomato boost business performance:**
 -	**📉 Focus on High Performing Cities:** Prioritize marketing and partnerships in cities like Amritsar and Cora Mongola
 -	**🧭 Expand in Underserved Areas:** Increase restaurant availability in regions such as Science City
@@ -112,6 +102,12 @@ To explore the dashboard:
 1. Download the `.pbix` file from the link above
 2. Open it with Power BI Desktop
 3. Use the slicers and visuals to explore the performance insights
+
+## 📁 Dataset Information
+- Source: Sample dataset designed to reflect Zomato's food delivery business operations for analytical purposes
+- Tables: `Users`, `Orders`, `Restaurants`, `Food`
+- Total Rows: Over **1,000,000** records
+- [Download Full Dataset](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 
 
 ## 📬 Contact
