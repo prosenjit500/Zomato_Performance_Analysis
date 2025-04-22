@@ -1,6 +1,6 @@
 # Zomato Performance Analysis | Data Insights Project
 
-This comprehensive project demonstrates the end-to-end data analytics process, encompassing data extraction, SQL-based logic development, advanced modeling, and compelling visual storytelling through Power BI. The objective is to deliver business-relevant insights into Zomato’s customer behavior, sales performance, and operational trends. Supporting documentation, including SQL query logs and dashboard files, ensures full transparency and reproducibility. **.
+**This comprehensive project demonstrates the end-to-end data analytics process, encompassing data extraction, SQL-based logic development, advanced modeling, and compelling visual storytelling through Power BI. The objective is to deliver business-relevant insights into Zomato’s customer behavior, sales performance, and operational trends. Supporting documentation, including SQL query logs and dashboard files, ensures full transparency and reproducibility.**
 
 ## 📁 Dataset Information
 - Source: Sample dataset designed to reflect Zomato's food delivery business operations for analytical purposes
@@ -13,10 +13,11 @@ This comprehensive project demonstrates the end-to-end data analytics process, e
   ![Dashboard GIF](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis.gif)
 
   
-## 📄 Supporting Files
-
-- **Zomato SQL Query Documentation – Detailed SQL scripts used throughout the analysis [View/Download](
-- **Power BI Dashboard (.pbix file) – Interactive and dynamic visual dashboard [View/Download](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
+📄 Supporting Files
+- **Zomato SQL Query Documentation** – Detailed SQL scripts used throughout the analysis
+     [👁️ View](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20SQL%20Query%20Documentation.pdf) | [📥 Download](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
+- **Power BI Dashboard (.pbix file)** – Interactive and dynamic visual dashboard
+     [👁️ View Dashboard](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis%20Dashboard.pdf) | [📥 Download Dashboard](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 
 ###   The Power BI dashboard includes the following key analysis sections:
 - **Business Overview**
@@ -84,21 +85,21 @@ This comprehensive project demonstrates the end-to-end data analytics process, e
 
 ###	📈 Business Growth Recommendations for Zomato
 
-Based on the analysis, these strategies can help Zomato boost business performance:
--	**📉 Focus on High Performing Cities: Prioritize marketing and partnerships in cities like Amritsar and Cora Mongola
--	**🧭 Expand in Underserved Areas: Increase restaurant availability in regions such as Science City
--	**🍽️ Promote Best-Selling Items: Advertise popular dishes like Jeera Rice and trending cuisines
--	**🧑‍🎓 Target Young Adults: Customize promotions for the 21–25 demographic, the largest user segment
--	**🔁 Strengthen Retention: Address churn, particularly among <21 users, through loyalty programs
--	**🥗 Support Category Growth: Use combo deals or seasonal campaigns to increase veg and non-veg sales
--	**📆 Optimize Monthly Strategy: Leverage March’s high and counteract August’s low sales via targeted campaigns
+**Based on the analysis, these strategies can help Zomato boost business performance:**
+-	**📉 Focus on High Performing Cities:** Prioritize marketing and partnerships in cities like Amritsar and Cora Mongola
+-	**🧭 Expand in Underserved Areas:** Increase restaurant availability in regions such as Science City
+-	**🍽️ Promote Best-Selling Items:** Advertise popular dishes like Jeera Rice and trending cuisines
+-	**🧑‍🎓 Target Young Adults:** Customize promotions for the 21–25 demographic, the largest user segment
+-	**🔁 Strengthen Retention:** Address churn, particularly among <21 users, through loyalty programs
+-	**🥗 Support Category Growth:** Use combo deals or seasonal campaigns to increase veg and non-veg sales
+-	**📆 Optimize Monthly Strategy:** Leverage March’s high and counteract August’s low sales via targeted campaigns
 
   
 ### 🛠 Tools & Technologies Used
--	**Microsoft Excel – Quick data analysis and formatting
--	**Power BI – Data cleaning, modeling, and dashboard visualization
--	**Microsoft SQL Server – External queries for in-depth analysis and logic development
--	**Microsoft Word – Documentation of SQL queries and project summary
+-	**Microsoft Excel** – Quick data analysis and formatting
+-	**Power BI** – Data cleaning, modeling, and dashboard visualization
+-	**Microsoft SQL Server** – External queries for in-depth analysis and logic development
+-	**Microsoft Word** – Documentation of SQL queries and project summary
 
 
 ## 📥 Download
