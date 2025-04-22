@@ -1,11 +1,6 @@
-# Zomato Performance Analysis
+# Zomato Performance Analysis | Data Insights Project
 
-This project provides an in-depth analysis of Zomato's operational data, using over one 
-million rows to uncover trends, patterns, and insights. The analysis is based on four core 
-tables: Orders, Food, Restaurants, and Users. SQL queries were used externally for 
-analysis, logic development, and validation of insights, which were then visualized using 
-Power BI. The queries documented here represent the analytical foundation behind each 
-dashboard visual. **.
+This comprehensive project demonstrates the end-to-end data analytics process, encompassing data extraction, SQL-based logic development, advanced modeling, and compelling visual storytelling through Power BI. The objective is to deliver business-relevant insights into Zomato’s customer behavior, sales performance, and operational trends. Supporting documentation, including SQL query logs and dashboard files, ensures full transparency and reproducibility. **.
 
 ## 📁 Dataset Information
 - Source: Sample dataset designed to reflect Zomato's food delivery business operations for analytical purposes
@@ -14,11 +9,14 @@ dashboard visual. **.
 - [Download Full Dataset](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 
 
-## 📊 Dashboard Overview
+## 📊 Project Overview
   ![Dashboard GIF](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis.gif)
 
   
+## 📄 Supporting Files
 
+- **Zomato SQL Query Documentation – Detailed SQL scripts used throughout the analysis [View/Download](
+- **Power BI Dashboard (.pbix file) – Interactive and dynamic visual dashboard [View/Download](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 
 ###   The Power BI dashboard includes the following key analysis sections:
 - **Business Overview**
@@ -83,43 +81,37 @@ dashboard visual. **.
 - Month
 - Quarter
 
-###   📈 Business Growth Recommendations for Zomato
-Based on the analysis, the following strategic recommendations can drive business growth:
 
--	**Focus on High Performing Cities**: Increase marketing and partnership efforts in cities like Amritsar and Cora Mongola with high sales and restaurant density.
+###	📈 Business Growth Recommendations for Zomato
 
--	**Expand in Underserved Locations**: Scale operations in areas with low restaurant availability like Science City to improve coverage.
+Based on the analysis, these strategies can help Zomato boost business performance:
+-	**📉 Focus on High Performing Cities: Prioritize marketing and partnerships in cities like Amritsar and Cora Mongola
+-	**🧭 Expand in Underserved Areas: Increase restaurant availability in regions such as Science City
+-	**🍽️ Promote Best-Selling Items: Advertise popular dishes like Jeera Rice and trending cuisines
+-	**🧑‍🎓 Target Young Adults: Customize promotions for the 21–25 demographic, the largest user segment
+-	**🔁 Strengthen Retention: Address churn, particularly among <21 users, through loyalty programs
+-	**🥗 Support Category Growth: Use combo deals or seasonal campaigns to increase veg and non-veg sales
+-	**📆 Optimize Monthly Strategy: Leverage March’s high and counteract August’s low sales via targeted campaigns
 
--	**Promote Best-Selling Items**: Highlight and promote top-selling dishes such as Jeera Rice and popular cuisines like North Indian Chinese to boost engagement.
+  
+### 🛠 Tools & Technologies Used
+-	**Microsoft Excel – Quick data analysis and formatting
+-	**Power BI – Data cleaning, modeling, and dashboard visualization
+-	**Microsoft SQL Server – External queries for in-depth analysis and logic development
+-	**Microsoft Word – Documentation of SQL queries and project summary
 
--	**Leverage Young Demographic**: Tailor marketing strategies and offers for the 21-25 age group, the platform’s largest user base.
-
--	**Enhance Loyalty Programs**: Implement user retention strategies to reduce YoY user loss and improve engagement from <21 users.
-
--	**Boost Veg and Non-Veg Sales Growth**: Introduce combo deals or festival offers to maintain momentum in both food categories.
-
--	**Capitalize on Monthly Trends**: Use March sales peaks for campaign planning and address the sales dip in August through targeted discounts or events.
-
-
-## 🛠 Tools & Technologies Used
-
-Microsoft Excel – Quick data analysis and formatting
-
-Power BI – Data cleaning, modeling, and dashboard visualization
-
-Microsoft SQL Server – External queries for in-depth analysis and logic development
-
-Microsoft Word – Documentation of SQL queries and project summary
 
 ## 📥 Download
 You can download the Power BI dashboard file from Google Drive:
 [Download Zomato_Dashboard.pbix](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
+
 
 ## 🚀 Getting Started
 To explore the dashboard:
 1. Download the `.pbix` file from the link above
 2. Open it with Power BI Desktop
 3. Use the slicers and visuals to explore the performance insights
+
 
 ## 📬 Contact
 For any queries or suggestions, feel free to connect on [LinkedIn](https://www.linkedin.com/in/prosenjitmajumder)
