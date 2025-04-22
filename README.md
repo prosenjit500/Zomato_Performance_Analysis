@@ -1,6 +1,6 @@
 # Zomato Performance Analysis | Data Analytics Project
 
-**This comprehensive project demonstrates the end-to-end data analytics process, encompassing data extraction, SQL-based logic development, advanced modeling, and compelling visual storytelling through Power BI. The objective is to deliver business-relevant insights into Zomato’s customer behavior, sales performance, and operational trends. Supporting documentation, including SQL query logs and dashboard files, ensures full transparency and reproducibility.**
+**This comprehensive project demonstrates the end-to-end data analytics process — covering data extraction, SQL-based logic development, advanced modeling, and compelling visual storytelling via Power BI. The analysis delivers business-relevant insights into Zomato’s customer behavior, sales performance, and operational trends. Key outcomes include identifying that 13% of 2019 users were repeat customers from the previous year and uncovering that 15% of restaurants contributed to 70% of total sales. Supporting documentation, including SQL queries and dashboard files, ensures full transparency and reproducibility.**
 
 ## 📁 Dataset Information
 - Source: Sample dataset designed to reflect Zomato's food delivery business operations for analytical purposes
