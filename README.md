@@ -1,8 +1,9 @@
 # Zomato Performance Analysis | Data Analytics Project
 
-  
+> 📷 **Dashboard Preview**: Interactive Power BI report showing key sales insights and trends.
   ![Dashboard GIF](https://github.com/prosenjit500/Zomato_Performance_Analysis/blob/main/Zomato%20Performance%20Analysis.gif)
 
+---
 ## 📊 Project Overview  
   **This project demonstrates the end-to-end data analytics workflow, encompassing data extraction, SQL-based logic development, advanced modeling, and visual storytelling with Power BI. It delivers actionable insights into Zomato’s customer behavior, sales performance, and operational trends. Key outcomes include a 20% increase in repeat customer orders, 13% of 2019 users as repeat customers from 2018, and 15% of restaurants contributing to 70% of total sales. All supporting documentation, including SQL queries and dashboard files, is provided for full transparency and reproducibility.**
 
@@ -113,8 +114,13 @@ To explore the dashboard:
 - [Download Full Dataset](https://drive.google.com/drive/folders/1RA2tFu_CABDJ4KHfqoGcRE53m8yu1-u6?usp=drive_link)
 
 
-## 📬 Contact
-For any queries or suggestions, feel free to connect on [LinkedIn](https://www.linkedin.com/in/prosenjitmajumder)
+## 📬 Contact & Contributions
+If you find this project useful or have suggestions for improvements, feel free to contribute or reach out!
+
+🔗 LinkedIn: **Prosenjit Majumder** [LinkedIn Profile](https://www.linkedin.com/in/prosenjitmajumder) 
+
+📧 Email: prosenjitmajumder500@gmail.com
+
 
 ---
 
