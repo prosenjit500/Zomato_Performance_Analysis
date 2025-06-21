@@ -6,7 +6,7 @@
 
   ---
 ## 📊 Project Overview  
-  **This project demonstrates the end-to-end data analytics workflow, encompassing data extraction, SQL-based logic development, advanced modeling, and visual storytelling with Power BI. It delivers actionable insights into Zomato’s customer behavior, sales performance, and operational trends. Key outcomes include a 20% increase in repeat customer orders, 13% of 2019 users as repeat customers from 2018, and 15% of restaurants contributing to 70% of total sales. All supporting documentation, including SQL queries and dashboard files, is provided for full transparency and reproducibility.**
+  **This project demonstrates the end-to-end data analytics workflow, encompassing data extraction, SQL-based logic development, advanced modeling, and visual storytelling with Power BI. It delivers actionable insights into Zomato’s customer behavior, sales performance, and operational trends. Conducted on a dataset of over one million rows, key outcomes include a 20% increase in repeat customer orders, 13% of 2019 users as repeat customers from 2018, and 15% of restaurants contributing to 70% of total sales. All supporting documentation, including SQL queries and dashboard files, is provided for full transparency and reproducibility.**
 
 
 ## 📄 Supporting Files
